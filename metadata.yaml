@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/tiktok/"
 versions:
+  # Latest version
+  - sha: 3f36477a6d26567ac8f04017db507b09ececaa34
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 9060e5c221d849f42ff12c06a56e620de7fe23af
     changeNotes: Initial release.
