@@ -48,7 +48,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "LABEL",
     "name": "info",
-    "displayName": "\u003ca href\u003d\"https://github.com/precariostecnicos/TikTok\"\u003eMore info\u003c/a\u003e"
+    "displayName": "\u003ca href\u003d\"https://www.luratic.com/posts/templates/tags/tiktok\"\u003eMore info\u003c/a\u003e"
   }
 ]
 
